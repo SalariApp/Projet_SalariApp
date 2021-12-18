@@ -5,7 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="482318e6-03d0-494a-aab5-d2ff236af5ab" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Dashboard/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/Login/Accueil.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/Login/Original-Copie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/Login/image-removebg-preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/Login/nicepage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SalariApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SalariApp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compte/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Compte/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dashbord/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dashbord/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Entreprise/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Entreprise/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetSalariApp/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetSalariApp/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetSalariApp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetSalariApp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Templates/Compte/Login.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/Compte/Login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Templates/Dashbord/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/Dashbord/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Login/styleLogin.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,16 +51,8 @@
   <component name="Git.Settings">
     <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
     <option name="PUSH_AUTO_UPDATE" value="true" />
-    <option name="PUSH_TAGS">
-      <GitPushTagMode>
-        <option name="argument" value="--tags" />
-        <option name="title" value="All" />
-      </GitPushTagMode>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="Git.Stage.Ui.Settings">
-    <option name="ignoredFilesShown" value="true" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -50,41 +70,39 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
-    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="GitStage.ChangesTree.GroupingKeys" value="directory&#10;module&#10;repository" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Templates/Compte" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Utilisateur\PycharmProjects\SalariApp\Templates\Compte" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Utilisateur\PycharmProjects\SalariApp\static\Dashbord" />
-      <recent name="C:\Users\Utilisateur\PycharmProjects\SalariApp\Templates\Dashbord" />
       <recent name="C:\Users\Utilisateur\PycharmProjects\SalariApp\static\Login" />
+      <recent name="C:\Users\Utilisateur\PycharmProjects\SalariApp\Templates\Compte" />
       <recent name="C:\Users\Utilisateur\PycharmProjects\SalariApp\Static\Login" />
       <recent name="C:\Users\Utilisateur\PycharmProjects\SalariApp\Satic\Login" />
+      <recent name="C:\Users\Utilisateur\PycharmProjects\SalariApp\Templates\Images" />
     </key>
   </component>
   <component name="RunManager" selected="Python.settings">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="SalariApp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\Utilisateur\PycharmProjects\pythonProject\venv\Scripts\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -94,18 +112,18 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="settings" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="settings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SalariApp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\Utilisateur\PycharmProjects\pythonProject\venv\Scripts\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProjetSalariApp" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProjetSalariApp/settings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -115,10 +133,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue="Python.main" />
-      <item itemvalue="Python.settings" />
-    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.settings" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -132,21 +151,6 @@
       <option name="presentableId" value="Default" />
       <updated>1638444873919</updated>
     </task>
-    <task id="LOCAL-00001" summary="First_Export">
-      <created>1638870776413</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1638870776413</updated>
-    </task>
-    <task id="LOCAL-00002" summary="First_Export">
-      <created>1638875105455</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1638875105455</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,9 +164,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="First_Export" />
-    <option name="LAST_COMMIT_MESSAGE" value="First_Export" />
   </component>
 </project>
