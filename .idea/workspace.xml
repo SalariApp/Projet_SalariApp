@@ -5,35 +5,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="482318e6-03d0-494a-aab5-d2ff236af5ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dashboard/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dashboard/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dashboard/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dashboard/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dashboard/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dashboard/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dashboard/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dashboard/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/Login/Accueil.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/Login/Original-Copie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/Login/image-removebg-preview.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/Login/nicepage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/SalariApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SalariApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Dashbord/Dashbord.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/Login/TofLogin2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compte/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Compte/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compte/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Compte/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Compte/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Compte/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dashboard/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dashboard/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dashboard/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dashboard/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dashboard/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dashboard/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dashboard/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dashboard/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dashbord/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dashbord/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dashbord/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dashbord/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Employé/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Employé/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Employé/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Employé/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Employé/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Employé/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Entreprise/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Entreprise/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Entreprise/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Entreprise/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Entreprise/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Entreprise/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjetSalariApp/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetSalariApp/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjetSalariApp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetSalariApp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Templates/Compte/Inscription.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/Compte/Inscription.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Templates/Compte/Login.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/Compte/Login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Templates/Dashbord/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/Dashbord/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/Login/styleLogin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Templates/Dashbord/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Templates/Dashbord/indexDash.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Dashbord/Chart.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Dashbord/all.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Dashbord/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Dashbord/chart-area-demo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Dashbord/chart-pie-demo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Dashbord/jquery.easing.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Dashbord/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Dashbord/sb-admin-2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Dashbord/sb-admin-2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Dashbord/sb-admin-2.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Login/Accueil.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/Login/Accueil.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Login/Original-Copie.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/Dashbord/Original-Copie.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Login/TofLogin.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,21 +88,21 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Utilisateur\PycharmProjects\SalariApp\Templates\Compte" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Utilisateur\PycharmProjects\SalariApp\static\Dashbord" />
+      <recent name="C:\Users\Utilisateur\PycharmProjects\SalariApp\static" />
+      <recent name="C:\Users\Utilisateur\PycharmProjects\SalariApp\Templates\Dashbord" />
       <recent name="C:\Users\Utilisateur\PycharmProjects\SalariApp\static\Login" />
       <recent name="C:\Users\Utilisateur\PycharmProjects\SalariApp\Templates\Compte" />
-      <recent name="C:\Users\Utilisateur\PycharmProjects\SalariApp\Static\Login" />
-      <recent name="C:\Users\Utilisateur\PycharmProjects\SalariApp\Satic\Login" />
-      <recent name="C:\Users\Utilisateur\PycharmProjects\SalariApp\Templates\Images" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.settings">
+  <component name="RunManager" selected="Python.main">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="SalariApp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -112,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="settings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="settings" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="SalariApp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,11 +145,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.settings" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">

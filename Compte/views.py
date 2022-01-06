@@ -4,3 +4,6 @@ from django.http import HttpResponse
 
 def Login (request):
     return render(request, 'Compte/Login.html')
+
+def Inscription (request):
+    return render(request, 'Compte/Inscription.html')
